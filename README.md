@@ -1,2 +1,3 @@
-# google-homepage
-The Odin Project - Assignment - Google homepage clone
+Build a Google homepage clone for the odin project
+
+https://www.theodinproject.com
